@@ -4,7 +4,7 @@
        url('fonts/bebas-webfont.woff2') format('woff2'),
        url('fonts/bebas-webfont.woff') format('woff');
   font-weight: normal;
-  font-style: normal;                 
+  font-style: normal;
 }
 @font-face{
 	font-family:'Champagne';
@@ -70,12 +70,16 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 	font-family: "bebasregular";
 	text-shadow: 0px 0px 16px #000000;
 }
-.index_container .row .col-12 h2 span{
-	color: #fc2b2b;
+.index_container .row .col-12 h1 span{
+	color: #00a02a;
 	text-shadow: 0px 0px 16px #000000;
 }
+.index_container .row .col-12 h2 span{
+  color: #76a910;
+  text-shadow: 0px 0px 16px #000000;
+}
 .index_container .row .col-12 a{
-	background-color: #fc2b2b;
+	background-color: #dc004e;
 	color: #ffffff;
 	font-weight: 300;
 	font-size: 1.1rem;
@@ -113,7 +117,7 @@ header .navbar-expand-lg .navbar-nav .nav-link{
     -webkit-animation-fill-mode: forwards;
     -moz-animation-fill-mode: forwards;
     -o-animation-fill-mode: forwards;
-    animation-fill-mode: forwards; 
+    animation-fill-mode: forwards;
 }
 @-webkit-keyframes zoom{
 	0%{-webkit-transform:scale(1)}
@@ -149,8 +153,13 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 	font-weight: bold;
 	font-size: 1rem;
 }
+.index_container--seccion2 ul li{
+  text-align: left;
+  font-weight: bold;
+  font-size: 1rem;
+}
 .index_container--seccion2 .col-md-4{
-	background: rgba(44, 69, 128, 1);
+	background: rgb(7, 109, 0);
 }
 .index_container--seccion2 .col-md-4 p{
 	color: #ffffff;
@@ -158,7 +167,7 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 	font-size: 1.5rem;
 }
 .index_container--seccion2 .col-md-4 label{
-	min-width: 200px;
+	min-width: 225px;
 	text-align: left;
 	color: #ffffff;
 	font-size: 1.5rem;
@@ -171,11 +180,11 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 	border: 0px;
 }
 .index_container--seccion2 input[type="submit"]{
-	background-color: #fc2b2b;
+	background-color: #dc004e;
 	color: #ffffff;
 	min-width: 250px;
 	border-radius: 0;
-	border: 2px solid #fc2b2b;
+	border: 2px solid #dc004e;
 	text-transform: uppercase;
 	font-size: 1.1rem;
 	cursor: pointer;
@@ -184,7 +193,7 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 }
 .index_container--seccion2 input[type="submit"]:hover{
 	background-color: #ffffff;
-	color: #fc2b2b;
+	color: #dc004e;
 }
 .index_container--seccion3 .row .col-12:first-child{
 	font-family: "bebasregular";

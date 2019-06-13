@@ -4,7 +4,7 @@
 <!doctype html>
 <html lang="es">
   	<head>
-	    <title>Fumigaciones y Control de Plagas en Veracruz y Puebla</title>
+	    <title>Semilla Thermogenica para bajar de peso</title>
 	    <meta charset="utf-8">
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Servicios de Fumigaciones, control de Plagas y Sanitizacion Residencial, Comercial e Industrial en Veracruz y Puebla, estamos certificados por la COFEPRIS. ">
@@ -21,7 +21,7 @@
 		<meta property="og:type" content="article" />
 		<meta property="og:url" content="http://sicmata.com/" />
 		<meta property="og:image" content="http://sicmata.com/images/logo-2.png" />
-		<meta property="og:description" content="Servicios de Fumigaciones, control de Plagas y Sanitizacion Residencial, Comercial e Industrial en Veracruz y Puebla, estamos certificados por la COFEPRIS." /> 
+		<meta property="og:description" content="Servicios de Fumigaciones, control de Plagas y Sanitizacion Residencial, Comercial e Industrial en Veracruz y Puebla, estamos certificados por la COFEPRIS." />
 		<meta property="og:site_name" content="Sicmata" />
 		<link rel="icon" href="images/favicon.png" type="image/png">
 	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
@@ -33,7 +33,7 @@
 			<section class="container">
 				<div class="row flex-row-reverse flex-md-row">
 					<div class="col-md-4 col-4">
-						<a href="#"><img src="images/logo-2_w.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla" class="img-fluid--logo"></a>
+						<a href="#"><img src="images/kc_logo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla" class="img-fluid--logo"></a>
 					</div>
 					<div class="col-md-8 col-8 d-flex align-items-center justify-content-sm-end justify-content-start">
 						<nav class="navbar navbar-expand-lg navbar-light">
@@ -46,13 +46,13 @@
 							        	<a class="nav-link" href="#sec-1">Inicio<span class="sr-only">(current)</span></a>
 							      	</li>
 							      	<li class="nav-item">
-							      		<a class="nav-link" href="#sec-2">Servicios</a>
+							      		<a class="nav-link" href="#sec-2">Productos</a>
 							      	</li>
 							      	<li class="nav-item">
 							        	<a class="nav-link" href="#sec-3">Conocenos</a>
 							      	</li>
 							      	<li class="nav-item">
-							      		<a class="nav-link" href="#sec-4">Contactanos</a>
+							      		<a class="nav-link" href="#sec-4">Compra Ya</a>
 							      	</li>
 							    </ul>
 							</div>
@@ -65,10 +65,10 @@
 	    	<section class="container-fluid index_container" id="sec-1">
 				<div class="row justify-content-center align-items-center">
 					<div class="col-12">
-						<img src="images/logo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
-						<h1>Fumigaciones, Sanitizacion y Control de Plagas</h1>
-						<h2>Soluciones a tu medida Desde <span>$300.00</span></h2>
-						<a id="cotiza" href="#sec-2">Cotiza Ya</a>
+					<br><br><br>
+						<h1>Conoce el poder de la <span>Semilla Thermogenica Plus</span></h1>
+						<h2>Desintoxicate y Baja de peso de <span>Manera Natural</span></h2>
+						<a id="cotiza" href="#sec-2">Bajar de peso YA!</a>
 					</div>
 				</div>
 	    		<div class="background-fixed">
@@ -79,36 +79,43 @@
 	    		<form method="post">
 		    		<div class="row">
 		    			<div class="col-md-8 col-12">
-		    					<div class="row justify-content-center align-items-center align-content-center">
+		    					<div class="row justify-content-center align-items-top align-content-center">
 		    						<div class="col-4">
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/002-house.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <img class="card-img-top" src="images/semilla_thermo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
-										    <h4 class="card-title">Residencial</h4>
-										    <p class="card-text">
-										      Eliminamos y controlamos las plagas en tu hogar para cuidar de ti y tu familia.
-										    </p>
+										    <h4 class="card-title">Hojuela Termogenica</h4>
+										      <ul>
+										      	<li>Desintoxicante natural.</li>
+										      	<li>Rica en Omegas 3,6 y 9.</li>
+										      	<li>Reactiva Sistema Digestivo.</li>
+										      	<li>Alicia estreñimiento.</li>
+										      	<li>Ayuda a mejorar hábitos alimenticios.</li>
+										      	<li>inhibe el apetito.</li>
+										      </ul>
 										  </div>
 										</div>
 		    						</div>
 		    						<div class="col-4">
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/003-store.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <img class="card-img-top" src="images/elite_total.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
-										    <h4 class="card-title">Comerial</h4>
-										    <p class="card-text">
-										      Un espacio de trabajo libre de plagas es necesario para un eficiente funcionamiento.
-										    </p>
+										    <h4 class="card-title">Polvo Termogenico</h4>
+										    <ul>
+										    	<li>Potente quemador de grasa.</li>
+										    	<li>Suave desintoxicante.</li>
+										    	<li>Impide la absorción de grasas y azucares.</li>
+										    </ul>
 										  </div>
 										</div>
 		    						</div>
 		    						<div class="col-4">
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/001-factory.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <img class="card-img-top" src="images/thermo_gel.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
-										    <h4 class="card-title">Industrial</h4>
+										    <h4 class="card-title">Thermo Gel</h4>
 										    <p class="card-text">
-										      Servicios especializados para las necesidades para el sector industrial.
+										      Ingredientes <i>100% naturales</i> que ayudan a combatir la celulitis y la flacidez en la piel. Debido a su efecto Termogenico sentirás una sensación de <i>frío-calor</i> inigualable.
 										    </p>
 										  </div>
 										</div>
@@ -116,21 +123,21 @@
 		    					</div>
 			    		</div>
 			    		<div class="col-md-4 col-12 d-flex flex-column justify-content-center align-items-center">
-			    			<p>Cotiza ya <br>¿Que servicio requieres?</p>
+			    			<p>Mayoreo y Menudeo<br>¿Que producto requieres?</p>
 			    			<label class="custom-control custom-radio">
-								 <input name="service" type="radio" value="Residencial" class="custom-control-input" required>
+								 <input name="service" type="radio" value="Hojuela Termogenica" class="custom-control-input" required>
 								 <span class="custom-control-indicator"></span>
-								 <span class="custom-control-description">Residencial</span>
+								 <span class="custom-control-description">Hojuela Termogenica</span>
 							</label>
 			    			<label class="custom-control custom-radio">
-								<input name="service" type="radio" value="Comercial" class="custom-control-input" required>
+								<input name="service" type="radio" value="Polvo Termogenico" class="custom-control-input" required>
 								<span class="custom-control-indicator"></span>
-								<span class="custom-control-description">Comercial</span>
+								<span class="custom-control-description">Polvo Termogenico</span>
 							</label>
 							<label class="custom-control custom-radio">
-								<input name="service" type="radio" value="Industrial" class="custom-control-input" required>
+								<input name="service" type="radio" value="Thermo Gel" class="custom-control-input" required>
 								<span class="custom-control-indicator"></span>
-								<span class="custom-control-description">Industrial</span>
+								<span class="custom-control-description">Thermo Gel</span>
 							</label>
 							<div class="form-group">
 								<input type="text" name="name" class="form-control" required placeholder="Nombre" required>

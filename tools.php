@@ -8,11 +8,11 @@
 
 		$email_to = "ingluisfelipe07@gmail.com";
 
-		$email_subject = "Contacto desde Si-C-Mata";
+		$email_subject = "Contacto desde Thermogenic Sur-Este";
 
-		$email_from = "webmaster@sicmata.com";
+		$email_from = "webmaster@thermogenic.com";
 
-		
+
 
 		if(!isset($_POST['name']) ||
 
@@ -48,7 +48,7 @@
 
 
 
-		
+
 
 		$headers = 'From: '.$email_from."\r\n" .
 
@@ -72,7 +72,7 @@
 
 		$email_from = "webmaster@sicmata.com";
 
-		
+
 
 		if(!isset($_POST['name2']) ||
 
@@ -112,7 +112,7 @@
 
 
 
-		
+
 
 		$headers = 'From: '.$email_from."\r\n" .
 

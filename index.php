@@ -158,9 +158,10 @@
 	    	<section class="container-fluid index_container index_container--seccion3" id="sec-3">
 	    		<div class="row">
 	    			<div class="col-md-6 col-12 d-flex justify-content-center align-items-center flex-column">
-	    				<p>Somos una empresa dedicada a brindar servicios y asesoria en la fumigacion, sanitizacion y control de plagas urbanas y agricolas.</p>
-	    				<p>Proporcionamos a nuestros clientes servicios a la medida de sus necesidades permitiendoles ahorrar dinero y dar una mejor imagen de su negocio.</p>
-	    				<img src="images/logo-2_w.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla" class="img-fluid">
+	    				<p>Unete a las cientos de personas que ya han decido cuidar su cuerpo y su salud con nuestros productos.</p>
+	    				<p>Somos distribuidores autorizados nos ubicados en la ciudad de Puebla, Pue.</p>
+							<p>Enviamos a todo el pais desde 1 producto hasta la cantidad que necesites.</p>
+	    				<img src="images/kc_logo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla" class="img-fluid">
 	    			</div>
 	    			<div class="col-md-6 col-12"></div>
 	    		</div>
@@ -199,7 +200,7 @@
 	    					<div class="col-12">
 	    						<div class="row">
 		    						<div class="col-7">
-			    						<p><b>Permitenos</b><br>solucionar tu problema</p>
+			    						<p><b>Permitenos</b><br>ayudar a cuidar tu salud</p>
 			    					</div>
 			    					<div class="col-5 d-sm-none">
 			    						<img src="images/logo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
@@ -208,8 +209,8 @@
 	    					</div>
 	    					<div class="col-md-10 col-12 d-flex flex-column align-content-center">
 			    				<h3>Contacto:</h3>
-			    				<p>Teléfono: 288-100-0674<br>contacto@sicmata.com</p>
-				    			<a href="#" rel="nofollow" class="social-item"><img src="images/facebook-logo.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla"></a>
+			    				<p>Teléfono: 222-128-8229<br>pathycuevasc@gmail.com</p>
+				    			<a href="https://www.facebook.com/patricia.cuevas.1044" rel="nofollow" class="social-item"><img src="images/facebook-logo.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla"></a>
 	    					</div>
 	    				</div>
 	    			</div>

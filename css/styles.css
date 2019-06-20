@@ -142,6 +142,9 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 	background-size: cover;
 	background-position: center;
 }
+.index_container--seccion2 .row .col-12 img{
+  max-width: 25%;
+}
 .card{
 	border: 0;
 	background-color: transparent;
@@ -158,13 +161,16 @@ header .navbar-expand-lg .navbar-nav .nav-link{
   font-weight: bold;
   font-size: 1rem;
 }
-.index_container--seccion2 .col-md-4{
-	background: rgb(7, 109, 0);
+.index_container--seccion2 #producto-p{
+	background: rgb(7, 86, 1);
 }
-.index_container--seccion2 .col-md-4 p{
+.index_container--seccion2 #producto-p{
 	color: #ffffff;
 	font-family: "bebasregular";
 	font-size: 1.5rem;
+}
+.index_container--seccion2 .col-md-4 .card-body p{
+	color: #000;
 }
 .index_container--seccion2 .col-md-4 label{
 	min-width: 225px;

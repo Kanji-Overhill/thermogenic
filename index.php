@@ -79,10 +79,10 @@
 	    		<form method="post">
 		    		<div class="row">
 		    			<div class="col-md-8 col-12">
-		    					<div class="row justify-content-center align-items-top align-content-center">
-		    						<div class="col-4">
+		    					<div class="row justify-content-center align-items-top align-content-center" style="min-height: auto">
+		    						<div class="col-12 col-md-4"><br><br>
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/semilla_thermo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <img class="card-img-top" src="images/semilla_thermo.png" style="max-width: 70%" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
 										    <h4 class="card-title">Hojuela Termogenica</h4>
 										      <ul>
@@ -96,9 +96,9 @@
 										  </div>
 										</div>
 		    						</div>
-		    						<div class="col-4">
+		    						<div class="col-12 col-md-4"><br><br>
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/elite_total.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <img class="card-img-top" src="images/elite_total.png" style="max-width: 70%" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
 										    <h4 class="card-title">Polvo Termogenico</h4>
 										    <ul>
@@ -109,9 +109,9 @@
 										  </div>
 										</div>
 		    						</div>
-		    						<div class="col-4">
+		    						<div class="col-12 col-md-4"><br><br>
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/thermo_gel.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <img class="card-img-top" src="images/thermo_gel.png" style="max-width: 70%" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
 										    <h4 class="card-title">Thermo Gel</h4>
 										    <p class="card-text">
@@ -121,8 +121,49 @@
 										</div>
 		    						</div>
 		    					</div>
+									<div class="row justify-content-center align-items-top align-content-center" style="min-height: auto">
+		    						<div class="col-12 col-md-4"><br><br>
+		    							<div class="card align-items-center">
+										  <img class="card-img-top" src="images/face_repair.png" width="50" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <div class="card-body">
+										    <h4 class="card-title">Face Repair</h4>
+										      <p class="text-justify font-weight-bold">
+														Favorece la rapica cicatrización de lesiones de la piel.<br>
+														Evita la proliferación de bacterias, combate brotes de acné, puntos negros y paño.<br>
+														Quita célulosas muertas, toxinas acumuladas en los poros y suciedad del medio ambiente que se adhiere a la cara.
+													</p>
+										  </div>
+										</div>
+		    						</div>
+		    						<div class="col-12 col-md-4"><br><br>
+		    							<div class="card align-items-center">
+										  <img class="card-img-top" src="images/body_repair.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <div class="card-body">
+										    <h4 class="card-title">Body Repair</h4>
+												<p class="text-justify font-weight-bold">
+													Desinflama, descontractura y relaja los músculos.<br>
+													Eleva el sistema inmunológico.<br>
+													Gracias a la Apitaxina ayuda al desvanecimiento de lineas de expresión en diferentes zonas del rostro.
+												</p>
+										  </div>
+										</div>
+		    						</div>
+		    						<div class="col-12 col-md-4"><br><br>
+		    							<div class="card align-items-center">
+										  <img class="card-img-top" src="images/sun_repair.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <div class="card-body">
+										    <h4 class="card-title">Skin Repair</h4>
+										    <p class="text-justify font-weight-bold">
+													Humenta, minimiza los rasgos del evenjecimiento, aclara tu piel.<br>
+													Sin estragos en tu piel por rayos UV. Hasta 5 horas de protección.<br>
+													Libre de grasas, parabenos y petrolatos.
+										    </p>
+										  </div>
+										</div>
+		    						</div>
+		    					</div>
 			    		</div>
-			    		<div class="col-md-4 col-12 d-flex flex-column justify-content-center align-items-center">
+			    		<div class="col-md-4 col-12 d-flex flex-column justify-content-center align-items-center" id="producto-p">
 			    			<p>Mayoreo y Menudeo<br>¿Que producto requieres?</p>
 			    			<label class="custom-control custom-radio">
 								 <input name="service" type="radio" value="Hojuela Termogenica" class="custom-control-input" required>
@@ -199,18 +240,16 @@
 	    				<div class="row">
 	    					<div class="col-12">
 	    						<div class="row">
-		    						<div class="col-7">
+		    						<div class="col-8">
 			    						<p><b>Permitenos</b><br>ayudar a cuidar tu salud</p>
 			    					</div>
-			    					<div class="col-5 d-sm-none">
-			    						<img src="images/logo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
-			    					</div>
+
 	    						</div>
 	    					</div>
 	    					<div class="col-md-10 col-12 d-flex flex-column align-content-center">
 			    				<h3>Contacto:</h3>
 			    				<p>Teléfono: 222-128-8229<br>pathycuevasc@gmail.com</p>
-				    			<a href="https://www.facebook.com/patricia.cuevas.1044" rel="nofollow" class="social-item"><img src="images/facebook-logo.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla"></a>
+				    			<a href="https://www.facebook.com/patricia.cuevas.1044?ref=br_rs" rel="nofollow" class="social-item"><img src="images/facebook-logo.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla"></a>
 	    					</div>
 	    				</div>
 	    			</div>

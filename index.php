@@ -124,7 +124,7 @@
 									<div class="row justify-content-center align-items-top align-content-center" style="min-height: auto">
 		    						<div class="col-12 col-md-4"><br><br>
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/face_repair.png" width="50" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <img class="card-img-top" src="images/face_repair.png" style="width: 20%" width="50" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
 										    <h4 class="card-title">Face Repair</h4>
 										      <p class="text-justify font-weight-bold">
@@ -137,7 +137,7 @@
 		    						</div>
 		    						<div class="col-12 col-md-4"><br><br>
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/body_repair.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
+										  <img class="card-img-top" src="images/body_repair.png" style="width: 20%" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
 										    <h4 class="card-title">Body Repair</h4>
 												<p class="text-justify font-weight-bold">
@@ -166,20 +166,35 @@
 			    		<div class="col-md-4 col-12 d-flex flex-column justify-content-center align-items-center" id="producto-p">
 			    			<p>Mayoreo y Menudeo<br>¿Que producto requieres?</p>
 			    			<label class="custom-control custom-radio">
-								 <input name="service" type="radio" value="Hojuela Termogenica" class="custom-control-input" required>
+								 <input name="service" type="radio" value="Hojuela Termogenica" class="custom-control-input">
 								 <span class="custom-control-indicator"></span>
 								 <span class="custom-control-description">Hojuela Termogenica</span>
 							</label>
 			    			<label class="custom-control custom-radio">
-								<input name="service" type="radio" value="Polvo Termogenico" class="custom-control-input" required>
+								<input name="service" type="radio" value="Polvo Termogenico" class="custom-control-input">
 								<span class="custom-control-indicator"></span>
 								<span class="custom-control-description">Polvo Termogenico</span>
 							</label>
 							<label class="custom-control custom-radio">
-								<input name="service" type="radio" value="Thermo Gel" class="custom-control-input" required>
+								<input name="service" type="radio" value="Thermo Gel" class="custom-control-input">
 								<span class="custom-control-indicator"></span>
 								<span class="custom-control-description">Thermo Gel</span>
 							</label>
+							<label class="custom-control custom-radio">
+								<input name="service" type="radio" value="Face Repair" class="custom-control-input">
+								<span class="custom-control-indicator"></span>
+								<span class="custom-control-description">Face Repair</span>
+							</label>
+							<label class="custom-control custom-radio">
+								<input name="service" type="radio" value="Body Repair" class="custom-control-input">
+								<span class="custom-control-indicator"></span>
+								<span class="custom-control-description">Body Repair</span>
+							</label>
+							<label class="custom-control custom-radio">
+								<input name="service" type="radio" value="Skin Repair" class="custom-control-input">
+								<span class="custom-control-indicator"></span>
+								<span class="custom-control-description">Skin Repair</span>
+							</label><br>
 							<div class="form-group">
 								<input type="text" name="name" class="form-control" required placeholder="Nombre" required>
 							</div>

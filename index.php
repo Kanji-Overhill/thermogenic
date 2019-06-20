@@ -32,10 +32,10 @@
 		<header>
 			<section class="container">
 				<div class="row flex-row-reverse flex-md-row">
-					<div class="col-md-4 col-4">
+					<div class="col-md-4 col-6">
 						<a href="#"><img src="images/kc_logo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla" class="img-fluid--logo"></a>
 					</div>
-					<div class="col-md-8 col-8 d-flex align-items-center justify-content-sm-end justify-content-start">
+					<div class="col-md-8 col-6 d-flex align-items-center justify-content-sm-end justify-content-start">
 						<nav class="navbar navbar-expand-lg navbar-light">
 							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
 							    <span class="navbar-toggler-icon"></span>
